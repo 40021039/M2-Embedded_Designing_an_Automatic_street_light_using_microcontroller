@@ -1,1 +1,1 @@
-# M2_Embedded_Designing_an_Automatic_street_light_using_microcontroller
+# M2-Embedded_Designing_an_Automatic_street_light_using_microcontroller
